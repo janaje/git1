@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-printf("Testing for webhook ");
+
 //
     int firstNumber, secondNumber, product;
     printf("Enter two numbers: ");
